@@ -60,6 +60,7 @@ So the problem boils down to finding principle direction in the word feature spa
 
 
 
+![Principle Direction Visualization](https://raw.githubusercontent.com/nitesh-dubey/deep-tagging/main/images/principle_directions.png)
 
 
 
